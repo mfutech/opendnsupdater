@@ -1,0 +1,4 @@
+[opendns]
+ifname = "interface name"
+user = "my username"
+password = "my password"
